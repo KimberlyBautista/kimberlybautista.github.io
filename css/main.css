@@ -12,7 +12,7 @@ body {
 }
 
 #experimentsbg {
-  background-image: url('../img/chalkboardbg.jpg');
+  background-image: url('../img/white bg.jpg');
   background-repeat: no-repeat;
 }
 
@@ -257,4 +257,9 @@ nav a.selected, nav a:hover {
 
 .color {
   color: #F2053C;
+}
+
+/* experiments text */
+ul#gallery > li > a > p.lightbgdarktext {
+  color: #6D98A6;
 }
